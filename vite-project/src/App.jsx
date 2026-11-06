@@ -1,8 +1,10 @@
+import Add from "./Hello"
 
 
 function App() {
+  
   return (
-    <h1>Hello, Vite! Mazhar Ali</h1>
+    <Add />
   )
 }
 
